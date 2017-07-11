@@ -1,0 +1,76 @@
+body {background-color: #CCCCCC;}
+html {border: 3px solid white;}
+.itembutton {
+  cursor: pointer;
+  height: 40%;
+  width: 30%;
+  border: 3px solid white;
+  background-color: #707070;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 300%;
+  opacity: 1;
+  padding: -20px 0px -20px -20px
+};
+.itembutton:hover {cursor: pointer;}
+.imgbutton {
+  height: 20%;
+  width: 40%;
+  display:block;
+  border: 3px solid white;
+  background-color: #707070;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 20px;
+  opacity: 1;
+  padding: -20px 0px -20px -20px;
+  position: relative;
+
+}
+.imgbutton: hover {
+
+}
+
+hr {
+  border-top: 3px solid white;
+  /*position: relative;*/
+
+}
+
+h2 {
+  display: inline;
+  font-size: 300%;
+  font-family: Verdana, Arial, Sans-Serif;
+  /*float: left;*/
+}
+p {
+  display: inline;
+  font-size: 250%;
+  text-align: right;
+    font-family: Verdana, Arial, Sans-Serif;
+    position: relative;
+    float: right;
+}
+h1 {
+  width: 99.5%;
+  height: 40%;
+  background-color: #ededed;
+  padding: -20px 0px -20px -20px;
+  text-align: center;
+  border: 3px solid white;
+  font-family: Georgia ,Arial, Helvetica;
+  font-size: 700%;
+
+}
+
+img {
+  border: 4px solid white;
+  height: 30%;
+  width: 50%;
+  /*float: right;*/
+  position: relative;
+
+
+}

@@ -1,0 +1,54 @@
+body {background-color: #CCCCCC;}
+html {border: 3px solid white;}
+.itembutton {
+  cursor: pointer;
+  height: 60px;
+  width: 100px;
+  border: 3px solid white;
+  background-color: #707070;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 20px;
+  opacity: 1;
+  padding: -20px 0px -20px -20px
+};
+.itembutton:hover {cursor: pointer;}
+.imgbutton {
+  height: 20%;
+  width: 40%;
+  display:block;
+  border: 3px solid white;
+  background-color: #707070;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 20px;
+  opacity: 1;
+  padding: -20px 0px -20px -20px;
+  position: relative;
+
+}
+.imgbutton: hover {
+
+}
+
+
+h1 {
+  width: 99.5%;
+  height: 20%;
+  background-color: #ededed;
+  padding: -20px 0px -20px -20px;
+  text-align: center;
+  border: 3px solid white;
+  font-family: Georgia ,Arial, Helvetica;
+  font-size: 500%;
+}
+
+img {
+  display: block;
+  height: 20%;
+  width: 40%;
+  margin: auto;
+
+}
